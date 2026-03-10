@@ -2,7 +2,7 @@
 
 💻 I build automation systems and AI-driven tools with Python.
 
-My technical background includes Python, C, C++, Java, JavaScript, HTML, CSS, MySQL, MS Access, n8n and core DBMS concepts.
+My technical background includes Python, C, C++, Java, JavaScript, TypeScript, HTML, CSS, MySQL, MS Access, n8n and core DBMS concepts.
 
 I enjoy designing systems that connect code, data and automation to solve real-world problems.
 
@@ -13,7 +13,7 @@ I enjoy designing systems that connect code, data and automation to solve real-w
 ## ⚙️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,mysql,git,github,typescript,vscode"/>
 </p>
 
 **Databases:** MySQL • MS Access • DBMS  
