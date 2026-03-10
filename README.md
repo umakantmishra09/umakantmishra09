@@ -50,9 +50,9 @@ Collection of Python scripts and tools designed to automate repetitive workflows
 
 ## 📊 GitHub Stats
 
-![Umakant's GitHub stats](https://github-readme-stats-six-silk-12.vercel.app/api?username=umakantmishra09&show_icons=true&theme=tokyonight)
+![Umakant's GitHub stats](https://github-readme-stats-six-silk-12.vercel.app/api?username=umakantmishra09&show_icons=true&theme=tokyonight&v=2)
 
-![Top Languages](https://github-readme-stats-six-silk-12.vercel.app/api/top-langs/?username=umakantmishra09&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-six-silk-12.vercel.app/api/top-langs/?username=umakantmishra09&layout=compact&theme=tokyonight&v=2)
 
 ## 🌐 Connect With Me
 
